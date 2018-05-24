@@ -22,9 +22,17 @@ It is an archival project in C language that manages a library with an advanced 
 
 ## Demo:
 
-![Ustawienia / Settings](/screenshots/Ustawienia.PNG?raw=true "Ustawienia / Settings")
 
-![Lista książek / List of books](/screenshots/Ksiazki.PNG?raw=true "Lista książek / List of books")
 
-![Lista czytelników / List of readers](/screenshots/Czytelnik.PNG?raw=true "Lista czytelników / List of readers")
+Ustawienia / Settings: 
+------------ 
+![Ustawienia / Settings](/screenshots/Ustawienia.PNG?raw=true "Ustawienia / Settings") |
+
+Lista książek / List of books | Lista czytelników / List of readers
+------------ | -------------
+![Lista książek / List of books](/screenshots/Ksiazki.PNG?raw=true "Lista książek / List of books") | ![Lista czytelników / List of readers](/screenshots/Czytelnik.PNG?raw=true "Lista czytelników / List of readers")
+
+
+
+
 
