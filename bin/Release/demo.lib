@@ -1,0 +1,258 @@
+.LIBST
+.CONFIG >
+7
+18
+12
+.CONFIG <
+.BOOKS >
+.B
+10
+B01
+PHP, MySQL i JavaScript. Wprowadzenie
+Robin
+Nixon
+2015
+.B
+9
+I03
+Algorytmy
+Maciej
+Sysˆo
+2016
+.B
+0
+P01
+J©zyk C. Szkoˆa programowania.
+Stephen
+Prata
+2016
+.B
+1
+P02
+J©zyk C++. Szkoˆa programowania.
+Stephen
+Prata
+2012
+.B
+2
+I01
+Czysty kod. Podr©cznik dobrego programisty.
+Robert C.
+Martin
+2010
+.B
+3
+A03
+Arduino. 65 praktycznych projekt¢w.
+John
+Boxall
+2013
+.B
+4
+P03
+J©zyk C++. Kompendium wiedzy.
+Bjarne
+Stroustrup
+2014
+.B
+5
+A02
+Zabawy z elektronik¥.
+Simon
+Monk
+2014
+.B
+6
+I02
+Algorytmy bez tajemnic
+Thomas H.
+Cormen
+2013
+.B
+7
+A01
+Programowanie ukˆad¢w AVR dla praktyk¢w
+Elliot
+Williams
+2014
+.B
+11
+A04
+Elektronika dla bystrzak¢w
+Cathleen
+Shamieh
+2016
+.B
+12
+B02
+SQL. Rusz gˆow¥!
+Lynn
+Beighley
+2012
+.B
+13
+P04
+Java. Podstawy.
+Cay S.
+Horstmann
+2016
+.B
+14
+P05
+Praktyczny kurs asemblera
+Eugeniusz
+Wr¢bel
+2011
+.B
+15
+P06
+Asembler. Leksykon kieszonkowy
+Dawid
+Farbaniec
+2012
+.B
+16
+A04
+Mikrokontrolery AVR. J©zyk C. Podstawy programowania
+Mirosˆaw
+Karda˜
+2015
+.B
+17
+I03
+RS232 w przykˆadach na PC i AVR
+Rafaˆ
+Chromik
+2010
+.BOOKS <
+.USERS >
+.U
+4
+Marta
+Kowal
+ul. Warszawska 4 m. 32, Biaˆystok
+12222222222
+m.kowal@gmail.com
+897546874
+.BORROWED >
+.I
+3
+1484766620
+0
+.I
+2
+1484501053
+0
+.I
+3
+1482700828
+1484501038
+.I
+13
+1453450848
+1484501046
+.I
+13
+1484766547
+0
+.BORROWED <
+.U
+3
+Jan
+Kowalski
+ul. Lipowa 13 m.18, Biaˆystok
+11111111111
+jk@wp.pl
+6789452354
+.BORROWED >
+.I
+13
+1484400000
+1484501081
+.I
+9
+1484500878
+0
+.BORROWED <
+.U
+5
+Roman
+Pech
+ul. Polna 4, Supra˜l
+31111111124
+-
++48782368785
+.BORROWED >
+.BORROWED <
+.U
+6
+Mariusz
+Kowalski
+ul. Hetmaäska 13, Biaˆystok
+01787854188
+m.kowalski@gmail.com
+857584875
+.BORROWED >
+.I
+16
+1484766553
+1484766564
+.BORROWED <
+.U
+7
+Adam
+W¢jcik
+ul. Legionowa 4, Biaˆystok
+00121211111
+-
++48987665687
+.BORROWED >
+.I
+4
+1484500862
+0
+.BORROWED <
+.U
+8
+Ryszard
+Mazur
+ul. Le˜na 4, Supra˜l
+01121333111
+ryszard.mazur@wp.pl
++48782546987
+.BORROWED >
+.BORROWED <
+.U
+9
+Witold
+Szymaäski
+ul. Podle˜na 23, Biaˆystok
+98754124188
+w.szym@gmail.com
+987542147
+.BORROWED >
+.I
+17
+1484500854
+0
+.I
+15
+1474500869
+0
+.BORROWED <
+.U
+10
+Marek
+Jabˆoäski
+ul. Ogrodowa 6, Krynki
+87121211111
+mj70@wp.pl
++48879645214
+.BORROWED >
+.I
+5
+1464500885
+0
+.BORROWED <
+.USERS <
+.LIBEN

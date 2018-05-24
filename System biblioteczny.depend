@@ -1,0 +1,355 @@
+# depslib dependency file v1.0
+1484489091 source:x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\libraryapp.c
+	"./LibraryApp.h"
+
+1484489083 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\libraryapp.h
+	"./LibraryMenu.h"
+	<windows.h>
+
+1484480023 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\librarymenu.h
+	<conio.h>
+	<windows.h>
+	"./LibraryMainFunct.h"
+
+1484480753 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\librarymainfunct.h
+	<stdlib.h>
+	"./LibrarySettingsChoice.h"
+	"../version.h"
+
+1484497852 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\librarymanagefunct.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"./LibraryAuxFunct.h"
+	"./LibraryUsers.h"
+
+1484479358 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\libraryauxfunct.h
+	<stdbool.h>
+	<stdio.h>
+	"./eCW/eCW_graphics.h"
+
+1484494747 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\librarybooks.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"./eCW/eCW_graphics.h"
+
+1484494472 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\libraryusers.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"./LibraryBorrowed.h"
+	"./eCW/eCW_graphics.h"
+
+1484494776 source:x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\librarybooks.c
+	"./LibraryBooks.h"
+	"code_snippets/List_ScrollListPrint_part1.c"
+	"code_snippets/List_ScrollListPrint_part2.c"
+	"code_snippets/List_ScrollListPrint_part3.c"
+	"code_snippets/List_ScrollListPrint_part4.c"
+	"code_snippets/List_AddBegin.c"
+	"code_snippets/List_Remove.c"
+
+1484435165 source:x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\librarymainfunct.c
+	"./LibraryMainFunct.h"
+
+1484497383 source:x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\librarymanagefunct.c
+	"./LibraryManageFunct.h"
+	"./code_snippets/Manage_Books_Filtre_engine.c"
+	"./code_snippets/Manage_Books_View.c"
+	"./code_snippets/Manage_ListSelCh.c"
+	"./code_snippets/Manage_Books_Filtre_engine.c"
+	"./code_snippets/Manage_Books_Sort.c"
+	"./code_snippets/Manage_Books_Filtre.c"
+	"./code_snippets/Manage_Books_Search.c"
+	"./code_snippets/Manage_Books_Add.c"
+	"./code_snippets/Manage_ESC.c"
+	"./code_snippets/Manage_Users_Filtre_engine.c"
+	"./code_snippets/Manage_Users_View.c"
+	"./code_snippets/Manage_ListSelCh.c"
+	"./code_snippets/Manage_Users_Filtre_engine.c"
+	"./code_snippets/Manage_Users_Sort.c"
+	"./code_snippets/Manage_Users_Filtre.c"
+	"./code_snippets/Manage_Users_Search.c"
+	"./code_snippets/Manage_Users_Add.c"
+	"./code_snippets/Manage_ESC.c"
+	"./code_snippets/Manage_Books_Edit.c"
+	"./code_snippets/Manage_Borrowed_Filtre_engine.c"
+	"./code_snippets/Manage_Borrowed_View.c"
+	"./code_snippets/Manage_ListSelCh.c"
+	"./code_snippets/Manage_Users_Edit.c"
+	"./code_snippets/Manage_Borrowed_Sort.c"
+	"./code_snippets/Manage_Borrowed_Filtre.c"
+	"./code_snippets/Manage_BookReturn.c"
+	"./code_snippets/Manage_BookReturn.c"
+
+1484421389 source:x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\librarymenu.c
+	"./LibraryMenu.h"
+
+1484434184 source:x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\libraryusers.c
+	"./LibraryUsers.h"
+	"code_snippets/List_ScrollListPrint_part1.c"
+	"code_snippets/List_ScrollListPrint_part2.c"
+	"code_snippets/List_ScrollListPrint_part3.c"
+	"code_snippets/List_ScrollListPrint_part4.c"
+	"code_snippets/List_AddBegin.c"
+	"code_snippets/List_Remove.c"
+
+1484489070 source:x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\main.c
+	<stdio.h>
+	<stdlib.h>
+	"include/LibraryApp.h"
+
+1484478054 source:x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\libraryauxfunct.c
+	"./LibraryAuxFunct.h"
+
+1484497871 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\version.h
+
+1484495097 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\libraryborrowed.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"./LibraryBooks.h"
+	"./eCW/eCW_graphics.h"
+
+1484434950 source:x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\libraryborrowed.c
+	"./LibraryUsers.h"
+	"code_snippets/List_ScrollListPrint_part1.c"
+	"code_snippets/List_ScrollListPrint_part2.c"
+	"code_snippets/List_ScrollListPrint_part3.c"
+	"code_snippets/List_ScrollListPrint_part4.c"
+	"code_snippets/List_AddBegin.c"
+
+1483450383 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\list.h
+
+1483448211 source:x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\list.c
+	"./List.h"
+
+1483451499 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\list.c
+	"./List.h"
+
+1484079773 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\code_snippets\list_addbegin.c
+
+1484079778 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\code_snippets\list_remove.c
+
+1484332979 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\code_snippets\list_scrolllistprint_part1.c
+
+1483624814 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\code_snippets\list_scrolllistprint_part2.c
+
+1483624810 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\code_snippets\list_scrolllistprint_part3.c
+
+1484334797 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\code_snippets\list_scrolllistprint_part4.c
+
+1484155118 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\code_snippets\manage_listselch.c
+
+1484079884 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\code_snippets\manage_esc.c
+
+1484488970 source:x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\ecw\ecw_graphics.c
+	"eCW_graphics.h"
+
+1484488966 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\ecw\ecw_graphics.h
+	<stdbool.h>
+	<windows.h>
+	<math.h>
+
+1483554292 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\libraryborrowed.c
+	"code_snippets/List_AddBegin.c"
+	"code_snippets/List_ScrollListPrint_part1.c"
+	"code_snippets/List_ScrollListPrint_part2.c"
+	"code_snippets/List_ScrollListPrint_part3.c"
+	"code_snippets/List_ScrollListPrint_part4.c"
+
+1484079791 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\code_snippets\manage_bookreturn.c
+
+1483796238 source:e:\!programy\projekt\system biblioteczny\include\ecw\ecw_graphics.c
+	"eCW_graphics.h"
+
+1483647792 e:\!programy\projekt\system biblioteczny\include\ecw\ecw_graphics.h
+	<stdbool.h>
+	<windows.h>
+	<math.h>
+
+1483881236 source:e:\!programy\projekt\system biblioteczny\include\libraryapp.c
+	"./LibraryApp.h"
+
+1483541152 e:\!programy\projekt\system biblioteczny\include\libraryapp.h
+	"./LibraryMenu.h"
+	<windows.h>
+
+1483285854 e:\!programy\projekt\system biblioteczny\include\librarymenu.h
+	<conio.h>
+	<windows.h>
+	"./LibraryMainFunct.h"
+
+1483877310 e:\!programy\projekt\system biblioteczny\include\librarymainfunct.h
+	"./LibraryManageFunct.h"
+	"../version.h"
+
+1483888461 e:\!programy\projekt\system biblioteczny\include\librarymanagefunct.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"./LibraryAuxFunct.h"
+	"./LibraryUsers.h"
+
+1483809321 e:\!programy\projekt\system biblioteczny\include\libraryauxfunct.h
+	<stdbool.h>
+	<stdio.h>
+	"./eCW/eCW_graphics.h"
+
+1483881397 e:\!programy\projekt\system biblioteczny\include\libraryusers.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"./LibraryBorrowed.h"
+	"./eCW/eCW_graphics.h"
+
+1483881416 e:\!programy\projekt\system biblioteczny\include\libraryborrowed.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"./LibraryBooks.h"
+	"./eCW/eCW_graphics.h"
+
+1483879981 e:\!programy\projekt\system biblioteczny\include\librarybooks.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"./eCW/eCW_graphics.h"
+
+1483888765 e:\!programy\projekt\system biblioteczny\version.h
+
+1483869763 source:e:\!programy\projekt\system biblioteczny\include\libraryauxfunct.c
+	"./LibraryAuxFunct.h"
+
+1483883778 source:e:\!programy\projekt\system biblioteczny\include\librarybooks.c
+	"./LibraryBooks.h"
+	"code_snippets/List_ScrollListPrint_part1.c"
+	"code_snippets/List_ScrollListPrint_part2.c"
+	"code_snippets/List_ScrollListPrint_part3.c"
+	"code_snippets/List_ScrollListPrint_part4.c"
+	"code_snippets/List_AddBegin.c"
+	"code_snippets/List_Remove.c"
+
+1483885212 e:\!programy\projekt\system biblioteczny\include\code_snippets\list_scrolllistprint_part1.c
+
+1483624814 e:\!programy\projekt\system biblioteczny\include\code_snippets\list_scrolllistprint_part2.c
+
+1483624810 e:\!programy\projekt\system biblioteczny\include\code_snippets\list_scrolllistprint_part3.c
+
+1483884949 e:\!programy\projekt\system biblioteczny\include\code_snippets\list_scrolllistprint_part4.c
+
+1483642548 e:\!programy\projekt\system biblioteczny\include\code_snippets\list_addbegin.c
+
+1483452394 e:\!programy\projekt\system biblioteczny\include\code_snippets\list_remove.c
+
+1483881423 source:e:\!programy\projekt\system biblioteczny\include\libraryborrowed.c
+	"./LibraryUsers.h"
+	"code_snippets/List_ScrollListPrint_part1.c"
+	"code_snippets/List_ScrollListPrint_part2.c"
+	"code_snippets/List_ScrollListPrint_part3.c"
+	"code_snippets/List_ScrollListPrint_part4.c"
+	"code_snippets/List_AddBegin.c"
+
+1483877349 source:e:\!programy\projekt\system biblioteczny\include\librarymainfunct.c
+	"./LibraryMainFunct.h"
+
+1483885494 source:e:\!programy\projekt\system biblioteczny\include\librarymanagefunct.c
+	"./LibraryManageFunct.h"
+	"./code_snippets/Manage_ListSelCh.c"
+	"./code_snippets/Sort_Direction.c"
+	"./code_snippets/Manage_ESC.c"
+	"./code_snippets/Manage_ListSelCh.c"
+	"./code_snippets/Sort_Direction.c"
+	"./code_snippets/Manage_ESC.c"
+	"./code_snippets/Manage_ListSelCh.c"
+	"./code_snippets/Sort_Direction.c"
+	"./code_snippets/Manage_BookReturn.c"
+	"./code_snippets/Manage_BookReturn.c"
+
+1483634034 e:\!programy\projekt\system biblioteczny\include\code_snippets\manage_listselch.c
+
+1483454614 e:\!programy\projekt\system biblioteczny\include\code_snippets\manage_esc.c
+
+1483561954 e:\!programy\projekt\system biblioteczny\include\code_snippets\manage_bookreturn.c
+
+1483553222 source:e:\!programy\projekt\system biblioteczny\include\librarymenu.c
+	"./LibraryMenu.h"
+
+1483887505 source:e:\!programy\projekt\system biblioteczny\include\libraryusers.c
+	"./LibraryUsers.h"
+	"code_snippets/List_ScrollListPrint_part1.c"
+	"code_snippets/List_ScrollListPrint_part2.c"
+	"code_snippets/List_ScrollListPrint_part3.c"
+	"code_snippets/List_ScrollListPrint_part4.c"
+	"code_snippets/List_AddBegin.c"
+	"code_snippets/List_Remove.c"
+
+1483883026 source:e:\!programy\projekt\system biblioteczny\main.c
+	<stdio.h>
+	<stdlib.h>
+	"include/LibraryApp.h"
+
+1483883018 e:\!programy\projekt\system biblioteczny\include\code_snippets\sort_direction.c
+
+1484434568 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\code_snippets\sort_direction.c
+
+1484079844 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\code_snippets\manage_books_filtre_engine.c
+
+1484335578 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\code_snippets\manage_books_view.c
+	"Manage_SortDirr_View.c"
+
+1484337625 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\code_snippets\manage_books_sort.c
+	"./Sort_Direction.c"
+
+1484079799 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\code_snippets\manage_books_filtre.c
+	"./Manage_Books_Filtre_engine.c"
+
+1484079856 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\code_snippets\manage_books_search.c
+
+1484079795 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\code_snippets\manage_books_add.c
+
+1484079880 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\code_snippets\manage_users_filtre_engine.c
+
+1484335604 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\code_snippets\manage_users_view.c
+	"Manage_SortDirr_View.c"
+
+1484333778 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\code_snippets\manage_users_sort.c
+	"./Sort_Direction.c"
+
+1484079884 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\code_snippets\manage_users_filtre.c
+	"./Manage_Users_Filtre_engine.c"
+
+1484079884 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\code_snippets\manage_users_search.c
+
+1484079884 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\code_snippets\manage_users_add.c
+
+1484434709 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\code_snippets\manage_sortdirr_view.c
+
+1484496817 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\code_snippets\manage_books_edit.c
+
+1484336094 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\code_snippets\manage_borrowed_filtre_engine.c
+
+1484434816 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\code_snippets\manage_borrowed_view.c
+	"Manage_SortDirr_Borrowed.c"
+
+1484495798 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\code_snippets\manage_users_edit.c
+
+1484434799 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\code_snippets\manage_borrowed_sort.c
+	"./Sort_Direction_Borrowed.c"
+
+1484336119 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\code_snippets\manage_borrowed_filtre.c
+	"./Manage_Borrowed_Filtre_engine.c"
+
+1484480033 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\librarysettingschoice.h
+	<conio.h>
+	<windows.h>
+	"./LibraryManageFunct.h"
+
+1484431033 source:x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\librarysettingschoice.c
+	"./LibrarySettingsChoice.h"
+
+1484434761 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\code_snippets\manage_sortdirr_borrowed.c
+
+1484434960 x:\moje dokumenty\dokumenty adama\dokumenty pb\semestr i\!programy\projekt\system biblioteczny\include\code_snippets\sort_direction_borrowed.c
+

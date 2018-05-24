@@ -1,0 +1,179 @@
+.LIBST
+.CONFIG >
+7
+13
+9
+.CONFIG <
+.BOOKS >
+.B
+11
+t
+t
+t
+t
+972602370
+.B
+9
+4
+4
+4
+Ksi¥¾4
+4
+.B
+5
+jakies id
+P
+p
+p
+1999
+.B
+1
+hhh
+Test
+Adam
+Lis
+1999
+.B
+2
+hhhhh
+Ksi¥¾ka
+Tomasz
+Lis
+2010
+.B
+3
+B01
+E
+E
+E
+2001
+.B
+4
+a
+a
+a
+a
+1111
+.B
+6
+idddd
+J23
+J23
+J23
+0
+.B
+10
+a
+a
+a
+2
+4
+.B
+12
+q
+q
+q
+q
+2
+.BOOKS <
+.USERS >
+.U
+7
+Tomasz
+M
+g
+95959
+9595@
+44994
+.BORROWED >
+.BORROWED <
+.U
+4
+R40
+R40
+R
+40
+r40@fg.pl
+30
+.BORROWED >
+.BORROWED <
+.U
+0
+A
+A
+A
+23
+A
+4
+.BORROWED >
+.BORROWED <
+.U
+1
+B
+B
+B
+4
+B
+5
+.BORROWED >
+.BORROWED <
+.U
+3
+J23
+J23
+J23
+23
+J23@g.pl
+34
+.BORROWED >
+.I
+2
+1483563087
+1483648597
+.I
+5
+1483562676
+1483563770
+.I
+6
+1483527471
+1473561915
+.I
+1
+1483555774
+1483560385
+.I
+4
+1443563526
+0
+.I
+3
+1483563530
+1483648756
+.BORROWED <
+.U
+5
+Adam
+B
+f
+98
+99899999
+45
+.BORROWED >
+.BORROWED <
+.U
+8
+¾¾«¢ˆtˆ††©
+e
+e
+3
+3
+3
+.BORROWED >
+.I
+12
+1484075536
+0
+.BORROWED <
+.USERS <
+.LIBEN
