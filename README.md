@@ -19,3 +19,12 @@ It is an archival project in C language that manages a library with an advanced 
 
 * For the operation of the program, the Windows oeration system is necessary. The program is available only in the Polish language version.
 * The project is for educational purposes only.
+
+## Demo:
+
+![Ustawienia / Settings](/screenshots/Ustawienia.PNG?raw=true "Ustawienia / Settings")
+
+![Lista książek / List of books](/screenshots/Ksiazki.PNG?raw=true "Lista książek / List of books")
+
+![Lista czytelników / List of readers](/screenshots/Czytelnik.PNG?raw=true "Lista czytelników / List of readers")
+
